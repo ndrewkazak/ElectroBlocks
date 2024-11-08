@@ -1,0 +1,1 @@
+import{w as r}from"./index.B_SVVHSE.js";import{a as o}from"./db.Dxj7bgAl.js";const t=r({project:null,projectId:null});o.subscribe(e=>{e.isLoggedIn||t.set({project:null,projectId:null})});const p={subscribe:t.subscribe,set:t.set};export{p};
